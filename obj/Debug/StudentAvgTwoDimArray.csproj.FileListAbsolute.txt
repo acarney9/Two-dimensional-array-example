@@ -1,0 +1,10 @@
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.csprojResolveAssemblyReference.cache
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.Form1.resources
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.Properties.Resources.resources
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.csproj.GenerateResource.Cache
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\bin\Debug\StudentAvgTwoDimArray.exe.config
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\bin\Debug\StudentAvgTwoDimArray.exe
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\bin\Debug\StudentAvgTwoDimArray.pdb
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.exe
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.pdb
+D:\CIS 266\ch7\StudentAvgTwoDimArray\StudentAvgTwoDimArray\obj\Debug\StudentAvgTwoDimArray.csproj.CoreCompileInputs.cache
